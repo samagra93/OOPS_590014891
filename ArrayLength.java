@@ -12,7 +12,8 @@ class ArrayLength {
         }
 
         int length = 0;
-        for (int i : arr) {
+        int i;
+        for (arr[i]) {
             length++;
         }
 
