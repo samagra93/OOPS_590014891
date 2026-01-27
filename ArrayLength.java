@@ -1,24 +1,14 @@
-import java.util.Scanner;
-
 class ArrayLength {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Enter length of array:\n");
-        int n = sc.nextInt();
-        int[] arr = new int[n];
-        System.out.println("Enter the elements of array:");
-        for (int i = 0; i < n; i++) {
-            arr[i] = sc.nextInt();
-        }
+
+        int[] arr = {22, 13, 14, 55, 42, 63, 62, 14, 52, 55, 33};
 
         int length = 0;
-        int i;
-        for (arr[i]) {
+
+        for (int x : arr) {
             length++;
         }
 
         System.out.println("Length of array: " + length);
-
-        sc.close();
     }
 }
