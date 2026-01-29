@@ -17,13 +17,6 @@ public class array {
             System.out.print(arr[i] + " ");
                         
         }
-
-        for (int i=0;i<n;i++)
-        {
-            System.out.print(args[i]);
-                        
-        }
-
         sc.close();
     }
 }

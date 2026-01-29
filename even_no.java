@@ -1,12 +1,4 @@
-// #include <stdio.h>
-// void main()
-// {
-//     printf("Hello World");
-// }
-
-
-
-class Hello_World
+class even_no
 {
     public static void main(String args[])
 {
