@@ -1,4 +1,4 @@
-class sum_of_array_command_line {
+class soa_command_line {
     public static void main(String[] args) {
         int sum = 0;
 
