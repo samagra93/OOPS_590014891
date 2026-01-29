@@ -21,5 +21,7 @@ class Frequency {
         }
 
         System.out.println("Frequency: " + count);
+        
+        sc.close();
     }
 }
