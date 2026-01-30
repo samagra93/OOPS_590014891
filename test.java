@@ -25,7 +25,7 @@ class BMW extends Car
 }
  
 
-class test {
+class super {
     public static void main(String[] args) {
         BMW c1 = new BMW(4,10);
         c1.f1();
