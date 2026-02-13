@@ -1,6 +1,6 @@
 package Package2;
 
-import Package1.Car;
+import Package1;
 
 public class Main2 {
     public static void main(String[] args) {
