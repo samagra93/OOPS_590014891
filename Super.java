@@ -1,5 +1,3 @@
-import Package1.Car;
-
 class Car
 {
     int n;
