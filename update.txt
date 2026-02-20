@@ -1,0 +1,2 @@
+This is original content of the file.
+This line is added as updated content.
